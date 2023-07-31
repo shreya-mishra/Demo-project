@@ -1,3 +1,4 @@
+
 This is a new [**React Native**](https://reactnative.dev) project, bootstrapped using [`@react-native-community/cli`](https://github.com/react-native-community/cli).
 
 # Getting Started
@@ -67,6 +68,9 @@ You've successfully run and modified your React Native App. :partying_face:
 # Troubleshooting
 
 If you can't get this to work, see the [Troubleshooting](https://reactnative.dev/docs/troubleshooting) page.
+
+# validate the demo project 
+https://github.com/shreya-mishra/Demo-project/assets/61110378/3faf697e-ec99-498d-9d38-301de10cb245
 
 # Learn More
 
